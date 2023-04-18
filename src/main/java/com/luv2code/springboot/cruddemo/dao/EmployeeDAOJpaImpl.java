@@ -10,7 +10,7 @@ import java.util.List;
 
 @Repository
 public class EmployeeDAOJpaImpl implements EmployeeDAO {
-    //define field for entitymanager
+    //define field for entity manager
 
     private EntityManager entityManager;
     //setup constructor injection
